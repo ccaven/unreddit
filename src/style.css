@@ -1,0 +1,15 @@
+article {
+    visibility: hidden;
+}
+
+div.masthead {
+    visibility: hidden;
+}
+
+#left-sidebar {
+    visibility: hidden;
+}
+
+#right-sidebar-container {
+    display: none;
+}

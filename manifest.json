@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "UnReddit",
+    "version": "0.0.1",
+    "description": "Free yourself from the algorithm.",
+    "content_scripts": [
+      {
+        "matches": ["https://www.reddit.com/*"],
+        "css": ["src/style.css"]
+      }
+    ],
+    "icons": {
+        "16": "assets/cozy_cool.png",
+        "48": "assets/cozy_cool.png",
+        "128": "assets/cozy_cool.png"
+    },    
+    "action": {
+      "default_icon": "assets/cozy_cool.png"
+    }
+}
