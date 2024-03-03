@@ -7,7 +7,7 @@ A Chrome extension to remove distractions on Reddit via CSS injection.
 
 1. Download or clone this repository.
    ```sh
-   git clone https://github.com/ccaven/un-reddit
+   git clone https://github.com/ccaven/unreddit
    ```
 1. Open Google Chrome and go to "**Manage Extensions**", `chrome://extensions`.
 1. Enable the "**Developer mode**" toggle in the top right corner.
